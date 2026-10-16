@@ -1,0 +1,26 @@
+name: agri_grade_mobile
+description: "AI-Based Universal Fruit and Vegetable Quality Grading System Mobile App"
+publish_to: "none"
+version: 2.4.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  http: ^1.2.1
+  provider: ^6.1.2
+  image_picker: ^1.1.2
+  shared_preferences: ^2.2.3
+  pdf: ^3.10.8
+  printing: ^5.13.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based Universal Fruit and Vegetable Quality Grading System",
+  "description": "AI-powered universal fruit and vegetable quality grading system with computer vision produce detection, defect segmentation, crop-specific grading rules, and automated inspection reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
